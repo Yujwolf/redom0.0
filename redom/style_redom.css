@@ -1,0 +1,45 @@
+.logo,.contacts {
+display: inline-block;
+vertical-align: top;
+border: 2px solid black;
+
+}
+
+.phone,.numbers {
+display: inline-block;
+vertical-align: middle;
+border: 2px solid black;
+
+}
+
+.phone {
+text-align: right;
+}
+
+
+.numbers p {
+font-size: 20px;
+font-weight: bold;	
+}
+
+
+
+.logo {
+width: 40%
+}
+ 
+ 
+#logo {
+max-width: 100%;
+margin-left: 1px;
+}
+
+
+#oldphone {
+width: 10%;
+height: 10%;
+border: 2px solid black;
+	
+}
+
+
