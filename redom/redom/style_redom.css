@@ -1,0 +1,67 @@
+.logo,.contacts {
+display: inline-block;
+vertical-align: top;
+border: 2px solid black;
+
+}
+
+.phone,.numbers {
+display: inline-block;
+vertical-align: middle;
+border: 2px solid black;
+
+}
+
+.phone {
+text-align: right;
+}
+
+
+.numbers p {
+font-size: 20px;
+font-weight: bold;	
+}
+
+
+
+.logo {
+width: 40%
+}
+ 
+ 
+#logo {
+max-width: 100%;
+margin-left: 1px;
+}
+
+
+#oldphone {
+width: 10%;
+height: 10%;
+border: 2px solid black;
+	
+}
+
+.main-menu ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+  padding-left: 0; /*убираем отступы*/
+}
+
+.main-menu a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+}
+
+.main-menu li {
+  float:right; /*Размещаем список горизонтально для реализации меню*/
+  margin-right:5px; /*Добавляем отступ у пунктов меню*/
+}
+
+.main-menu {
+	border: 2px solid black;
+	background-color: grey;
+	width: 70%;
+	height: 70;
+	display: inline-block;
+}
+
