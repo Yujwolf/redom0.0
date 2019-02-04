@@ -43,7 +43,7 @@ border: 2px solid black;
 }
 
 #navbar {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style-type: none;
   position: relative;
@@ -57,14 +57,15 @@ border: 2px solid black;
 }
 
 #navbar {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style-type: none;
-  border: 2px solid #0066FF;
-  border-radius: 20px 5px;
-  width: 550px;
+  border: 2px solid #ffffff;
+  border-radius: 20px;
+  width: 800px;
+  height: 40px;
   text-align: center;
-  background-color: #33ADFF;
+  background-color: #2a2b2c;;
 }
 #navbar a {
   color: #fff;
